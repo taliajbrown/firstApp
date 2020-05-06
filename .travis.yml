@@ -11,7 +11,7 @@ deploy:
   provider: firebase
   token: $FIREBASE_TOKEN
 <<<<<<< HEAD
-  project: newapp-9b259
+  project: newapp-607aa
 =======
   project: fir-test-c2112
 >>>>>>> parent of a7cc39e... Changed Travis project name
