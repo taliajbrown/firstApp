@@ -144,7 +144,6 @@ export function App(props) {
   </AppBar>
   <Drawer open={drawer_open} onClose={() => {setDrawerOpen(false)}}>
     <div>hello</div>
-    
   </Drawer>
   </div>);
 }
